@@ -10,5 +10,5 @@ Elemental kernel's website can be found here: https://elementalx.org/
 
 The source code for the NanoPC-T4 kernel I used can be found here: https://gitlab.com/friendlyelec/rk3399-android-8.1/tree/master/kernel
 
-This project is still very much a work in progress, 
+This project is still very much a work in progress.
 
